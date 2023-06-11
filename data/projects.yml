@@ -8,10 +8,10 @@
   image: projects/placeholder.png
   url: https://www.google.com
 
-- name: Airbnb
+- name: BookList
   description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+  image: projects/LibraryScreenshot.png
+  url: https://main--loquacious-horse-a8497c.netlify.app/
 
 - name: Final project
   description: Decent description of the app
