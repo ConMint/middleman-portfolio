@@ -1,9 +1,9 @@
-- name: Longest Word Game
+- name: Radiant
   description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
+  image: projects/radiantscreenshot.png
+  url: https://www.radiant-assistant.com
 
-- name: Movie Watchlist
+- name: Tavern
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
@@ -13,7 +13,27 @@
   image: projects/LibraryScreenshot.png
   url: https://main--loquacious-horse-a8497c.netlify.app/
 
-- name: Final project
+- name: Etch-a-sketch
+  description: Decent description of the app
+  image: projects/etchscreenshot.png
+  url: https://resilient-unicorn-db10a9.netlify.app/
+
+- name: Calculator
   description: Decent description of the app
   image: projects/placeholder.png
+  url: https://www.google.com
+
+- name: TicTacToe
+  description: Decent description of the app
+  image: projects/placeholder.png
+  url: https://www.google.com
+
+- name: To-do List
+  description: Decent description of the app
+  image: projects/placeholder.png
+  url: https://www.google.com
+
+- name: GiphyAPI
+  description: Decent description of the app
+  image: projects/GiphyScreenshot.png
   url: https://www.google.com
