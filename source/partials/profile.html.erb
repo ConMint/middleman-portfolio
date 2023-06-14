@@ -1,0 +1,40 @@
+<section class="dark">
+  <article class="postcard dark blue mt-5">
+    <a class="postcard__img_link" href="#">
+      <img class="postcard__img" src="../images/avatar.png" alt="Image Title" />
+    </a>
+    <div class="postcard__text">
+      <div class="d-flex justify-content-between">
+        <div>
+          <h1 class="postcard__title blue"><a href="#">Connor Minto</a></h1>
+        </div>
+        <div class='d-flex'>
+          <div class="button-social d-flex flex-column justify-content-center align-items-center">
+            <i class="fa-solid fa-envelope"></i>
+            <%= mail_to "douglasmberkley@gmail.com", "", class: 'button-social-link' %>
+          </div>
+          <div class="button-social d-flex flex-column justify-content-center align-items-center">
+            <i class="fa-brands fa-github"></i>
+            <%= link_to "", "https://github.com/ConMint", target: '_blank', class: 'button-social-link' %>
+          </div>
+          <div class="button-social d-flex flex-column justify-content-center align-items-center">
+            <i class="fa-brands fa-linkedin"></i>
+            <%= link_to "", "https://www.linkedin.com/in/connor-minto479/", target: '_blank', class: 'button-social-link' %>
+          </div>
+        </div>
+      </div>
+      <div class="postcard__subtitle small">
+        Fullstack Developer, Tokyo 🗼
+      </div>
+      <div class="postcard__bar"></div>
+      <div class="postcard__preview-txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, fugiat asperiores inventore beatae accusamus odit minima enim, commodi quia, doloribus eius! Ducimus nemo accusantium maiores velit corrupti tempora reiciendis molestiae repellat vero. Eveniet ipsam adipisci illo iusto quibusdam, sunt neque nulla unde ipsum dolores nobis enim quidem excepturi, illum quos!</div>
+      <ul class="postcard__tagbox">
+        <li class="tag__item"><i class="fas fa-tag mr-2"></i>Podcast</li>
+        <li class="tag__item"><i class="fas fa-clock mr-2"></i>55 mins.</li>
+        <li class="tag__item play blue">
+          <a href="#"><i class="fas fa-play mr-2"></i>Play Episode</a>
+        </li>
+      </ul>
+    </div>
+  </article>
+</section>
