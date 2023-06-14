@@ -6,7 +6,7 @@
 - name: Tavern
   description: Decent description of the app
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://github.com/ConMint/tavern
 
 - name: BookList
   description: Decent description of the app
@@ -21,19 +21,19 @@
 - name: Calculator
   description: Decent description of the app
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://mellifluous-khapse-14fb4b.netlify.app/
 
 - name: TicTacToe
   description: Decent description of the app
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://gregarious-tapioca-ddf55a.netlify.app/
 
 - name: To-do List
   description: Decent description of the app
   image: projects/placeholder.png
-  url: https://www.google.com
+  url: https://profound-fudge-e0e923.netlify.app/
 
 - name: GiphyAPI
   description: Decent description of the app
   image: projects/GiphyScreenshot.png
-  url: https://www.google.com
+  url: https://loquacious-dolphin-1263de.netlify.app/
