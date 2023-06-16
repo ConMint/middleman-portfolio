@@ -5,7 +5,7 @@
 
 - name: Tavern
   description: Decent description of the app
-  image: projects/placeholder.png
+  image: projects/tavernscreenshot.png
   url: https://github.com/ConMint/tavern
 
 - name: BookList
@@ -20,20 +20,20 @@
 
 - name: Calculator
   description: Decent description of the app
-  image: projects/placeholder.png
+  image: projects/calcscreenshot.png
   url: https://mellifluous-khapse-14fb4b.netlify.app/
 
 - name: TicTacToe
   description: Decent description of the app
-  image: projects/placeholder.png
+  image: projects/tttscreenshot.png
   url: https://gregarious-tapioca-ddf55a.netlify.app/
 
-- name: To-do List
+- name: ToDoList
   description: Decent description of the app
-  image: projects/placeholder.png
+  image: projects/tdscreenshot.png
   url: https://profound-fudge-e0e923.netlify.app/
 
 - name: GiphyAPI
   description: Decent description of the app
-  image: projects/GiphyScreenshot.png
+  image: projects/gipyscreenshot.png
   url: https://loquacious-dolphin-1263de.netlify.app/
