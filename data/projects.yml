@@ -1,39 +1,40 @@
 - name: Radiant
-  description: Decent description of the app
+  description: During Dungeons & Dragons combat, it can be difficult to focus on story-telling and combat at the same time. Radiant uses AI to provide story-telling assistance.
   image: projects/radiantscreenshot.png
   url: https://www.radiant-assistant.com
 
 - name: Tavern
-  description: Decent description of the app
+  description: An Airbnb clone where users can book a dungeon master for their Dungeons & Dragons campaign. Users can also reigster as a dungeon master themselves.
   image: projects/tavernscreenshot.png
   url: https://github.com/ConMint/tavern
 
 - name: BookList
-  description: Decent description of the app
+  description: Allows users to manage their reading list. The user can add a new book via modal, mark books as read or delete from the list.
   image: projects/LibraryScreenshot.png
   url: https://main--loquacious-horse-a8497c.netlify.app/
 
 - name: Etch-a-sketch
-  description: Decent description of the app
+  description: A simple drawing tool. Users can choose a grid size, background colour and pen colour (or use the rainbow 🌈).
   image: projects/etchscreenshot.png
   url: https://resilient-unicorn-db10a9.netlify.app/
 
-- name: Calculator
-  description: Decent description of the app
-  image: projects/calcscreenshot.png
-  url: https://mellifluous-khapse-14fb4b.netlify.app/
 
-- name: TicTacToe
-  description: Decent description of the app
+- name: Tic Tac Toe
+  description: Two players can enter their names and face off at tic tac toe. The winner is displayed along the bottom and the board can be reset.
   image: projects/tttscreenshot.png
   url: https://gregarious-tapioca-ddf55a.netlify.app/
 
 - name: ToDoList
-  description: Decent description of the app
+  description: Users can create tasks, specifying their title, description, duedate, the project they belong to and their importance. Tasks can be filtered based on due date and importance.
   image: projects/tdscreenshot.png
   url: https://profound-fudge-e0e923.netlify.app/
 
+- name: Calculator
+  description: Fully functional calculator made in Vanilla JS.
+  image: projects/calcscreenshot.png
+  url: https://mellifluous-khapse-14fb4b.netlify.app/
+
 - name: GiphyAPI
-  description: Decent description of the app
+  description: A random GIF based on the users search input is displayed from Giphy. Users can re-roll for another random GIF or enter a new keyword.
   image: projects/gipyscreenshot.png
   url: https://loquacious-dolphin-1263de.netlify.app/
