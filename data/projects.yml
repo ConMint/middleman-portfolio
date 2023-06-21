@@ -25,7 +25,7 @@
   url: https://gregarious-tapioca-ddf55a.netlify.app/
 
 - name: ToDoList
-  description: Users can create tasks, specifying their title, description, duedate, the project they belong to and their importance. Tasks can be filtered based on due date and importance. Only works on desktop.
+  description: Users can create tasks, specifying their title, description, duedate, the project they belong to and their importance. Tasks can be filtered based on due date and importance. (Desktop)
   image: projects/tdscreenshot.png
   url: https://profound-fudge-e0e923.netlify.app/
 
